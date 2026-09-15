@@ -1,47 +1,54 @@
-🚀 Personal Portfolio Website
 
-A modern and responsive personal portfolio website built using React.js, Vite, and Tailwind CSS. This portfolio showcases my skills, projects, education, certifications, and contact information in a clean and professional interface.
+# 🚀 About
 
-📌 About The Project
+A modern and responsive portfolio website built with **React**, **Vite**, and **Tailwind CSS** to showcase my projects, skills, education, and achievements.
 
-This project was developed to create a strong online presence and demonstrate my web development skills. The website is fully responsive and designed to work across desktop, tablet, and mobile devices.
+## ✨ Features
 
-The portfolio includes:
-Personal introduction
+- 🌙 Dark/Light Mode
+- 📱 Fully Responsive Design
+- 💻 Skills Showcase
+- 🚀 Project Portfolio
+- 📄 Resume Download
+- 📞 WhatsApp Contact Form
+- 🎓 Education Section
 
-About Me section
-Skills showcase
-Project gallery
-Educational background
-Certifications section
-Contact form with WhatsApp integration
-Dark/Light mode toggle
-Resume download option
+## 🛠️ Tech Stack
 
-🛠️ Technologies Used
-Frontend
-React.js
-Vite
-Tailwind CSS
-JavaScript (ES6+)
-HTML5
-CSS3
-Development Tools
-Visual Studio Code
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
 
-🎨 Modern UI Design
-Professional layout
-Smooth user experience
-Clean typography
-Gradient backgrounds
+## 🚀 Featured Projects
 
-📱 Fully Responsive
-Mobile friendly
-Tablet friendly
-Desktop optimized
-🌙 Dark/Light Mode
-Toggle between themes
-Improved user accessibility
+### 🧠 Face Recognition Attendance System
+Built using Python, OpenCV, and MySQL for automated attendance management.
+
+### 🍔 Food Recipe Web App
+Recipe search application with API integration.
+
+### 🛒 E-Commerce Platform
+Shopping website with product listing and cart functionality.
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/darkseid208/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+```
+
+## 📬 Contact
+
+📧 Email: sameerprasad859@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/samir-prasad-a622512b0
+
+💻 GitHub: github.com/darkseid208
 
 
 
